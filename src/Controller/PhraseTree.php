@@ -33,6 +33,9 @@ class PhraseTree
             if ($i < count($order) - 1) {
                 $result .= $current->names[$order[$i + 1]];
             } else {
+                if (!is_string($current)) {
+                    throw new NotFoundHttpException('The ID was not found');
+                }
                 $result .= $current;
             }
         }

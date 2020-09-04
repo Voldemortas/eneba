@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="25a74013-614b-4eec-9f61-6e10128998e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Controller/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/MainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/PhraseTree.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/PhraseTree.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +156,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -148,18 +168,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599193924854</updated>
-      <workItem from="1599193931394" duration="641000" />
+      <workItem from="1599193931394" duration="2156000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="748" y="385" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0" timestamp="1599194377292">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="748" y="385" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0/0.0.1920.1044@0.0.1920.1044" timestamp="1599194377292" />
+    <state x="717" y="264" width="649" height="627" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1599195112274">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="717" y="264" width="649" height="627" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1599195112274" />
     <state x="624" y="238" key="run.anything.popup" timestamp="1599194024289">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
